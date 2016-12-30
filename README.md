@@ -16,3 +16,6 @@ Resources for learning German online and for free.
 
 ### Online Content
 - [Gutenberg Project](http://gutenberg.spiegel.de/)
+
+### YouTube/Video
+- [German 101](https://www.youtube.com/user/germanpod101)
