@@ -3,7 +3,7 @@ Resources for learning German online and for free.
 
 ### Instructional Resources
 -  [Duolingo](https://www.duolingo.com/)
-- [Deutch Lernen](http://www.deutsch-lernen.com/)
+- [Deutsch Lernen](http://www.deutsch-lernen.com/)
 
 ### Short Stories 
 - [German Short Stories for Beginners](http://learnoutlive.com/german-short-stories-beginners/)
